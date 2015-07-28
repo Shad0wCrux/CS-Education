@@ -1,8 +1,10 @@
 # CS-Education
 A repository for keeping track of computer science classes, tutorials, guides, and resources.
 
-## Online Classes
-
+## Online Classes/MOOCs
+* [Coursera](https://www.coursera.org) - Coursera offers a variety of CS classes (Fundamentals, Logic, Algorithms) as well as related fields (Cryptography, Security, Programming).
+* [edX](https://www.edx.org) - edX offers multiple CS and CS-related courses. Subjects range from basic principles to machine learning and data mining. Also offers related programming and system administration topics.
+* [Khan Academy](https://www.khanacademy.org/computing/computer-science) - Khan Academy offers a few computer science instructional videos. It also covers related subjects like Cryptography and Informational Theory.
 ## Tutorials
 
 ## Resources
