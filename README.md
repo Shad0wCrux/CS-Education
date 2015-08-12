@@ -15,5 +15,6 @@ A repository for keeping track of computer science classes, tutorials, guides, a
 * [Peer Instruction 4 CS](http://www.peerinstruction4cs.org) - A site with curriculum for CS educators focusing on the peer instruction method of teaching.
 
 ### Interesting CS Articles
+* [The Manuscripts of Edsger Dijkstra](http://www.cs.utexas.edu/users/EWD/welcome.html) - A collection of Dijkstra's writings as well as a few videos/lectures
 * [Top 10 Myths about teaching CS](http://cacm.acm.org/blogs/blog-cacm/189498-top-10-myths-about-teaching-computer-science/fulltext)- Self-explanatory. Article introduces EngageCSEdu and a few others
 
