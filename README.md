@@ -20,4 +20,4 @@ A repository for keeping track of computer science classes, tutorials, guides, a
 
 ### Videos/Movies
 * [Denken Als Discipline](http://www.cs.utexas.edu/users/EWD/video-audio/NoorderlichtVideo.html) - Discipline in Thought - 30 minute interview with Dijkstra mainly on how he thinks about problems and what he's accomplished. Found on Youtube or with the "Manuscripts".
-
+* [Andrew S. Tanenbaum: The Impact of MINIX](https://www.youtube.com/watch?v=86_BkFsb4eI) - 10 minute interview with Professor Tanenbaum.
