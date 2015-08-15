@@ -14,7 +14,7 @@ A repository for keeping track of computer science classes, tutorials, guides, a
 * [CS Teacher Association](http://csta.acm.org/WebRepository/WebRepository.html) - Dedicated to teaching Computer Science topics for grades K-12. Membership needed for full range of articles.
 * [Peer Instruction 4 CS](http://www.peerinstruction4cs.org) - A site with curriculum for CS educators focusing on the peer instruction method of teaching.
 * [The Manuscripts of Edsger Dijkstra](http://www.cs.utexas.edu/users/EWD/welcome.html) - A collection of Dijkstra's writings as well as a few videos/lectures. Recommend EWD215, 498, and 1304.
-
+* [Xv6](http://pdos.csail.mit.edu/6.828/2014/xv6.html) - Xv6 is a "teaching" operating system that mimics Unix. There is an associated book and lecture material available as well. (Not yet validated)
 ### Interesting CS Articles
 * [Top 10 Myths about teaching CS](http://cacm.acm.org/blogs/blog-cacm/189498-top-10-myths-about-teaching-computer-science/fulltext)- Self-explanatory. Article introduces EngageCSEdu and a few others.
 
