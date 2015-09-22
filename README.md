@@ -7,6 +7,7 @@ A repository for keeping track of computer science classes, tutorials, guides, a
 * [Khan Academy](https://www.khanacademy.org/computing/computer-science) - Khan Academy offers a few computer science instructional videos. It also covers related subjects like Cryptography and Informational Theory.
 
 ## Tutorials
+* [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html) - What started off as a series of blog posts is now an online book based on Linux kernel development and its inner workings.
 
 ## Resources
 * [EngageCSEdu](https://www.engage-csedu.org/) - Upload your computer science curriculum to share with others or download someone else's. Includes multiple programming languages. Focus on CS1 and CS2 level classes.
